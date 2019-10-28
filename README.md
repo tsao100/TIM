@@ -1,5 +1,5 @@
-# TIM
-Track Information Modeling
+# Track Information Modeling (TIM)
+
 
 The track information modeling (TIM) project is based on the Autodesk Revit Platform plug-in. My target is to make the conveniences of TIM work as much as possible.
 

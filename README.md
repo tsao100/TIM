@@ -15,5 +15,5 @@ For this project, you can contribute your efforts in the following ways:
 
 1. Provide comments, ideas or related materials.
 2. Directly involved in development.
-3. Provide a formula for the transition curve and related data sheets. [Click].(https://github.com/tsao100/TIM/issues/1).
+3. Provide a formula for the transition curve and related data sheets. *[Click].(https://github.com/tsao100/TIM/issues/1).*
 4. Donate.

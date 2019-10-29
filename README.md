@@ -13,7 +13,7 @@ Based on the above ideas, I have been working for a while, learning Revit SDK an
 
 For this project, you can share and contribute to your efforts in the following ways:
 
-1. Provide comments, ideas or related materials.
+1. Provide comments, ideas or related materials, help to translate the document into a language you are familiar with.
 2. Directly involved in development.
 3. Provide a formula for the transition curve and related test data sheets. [Click](https://github.com/tsao100/TIM/issues/1).
 4. Donate.

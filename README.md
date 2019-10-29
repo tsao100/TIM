@@ -11,7 +11,7 @@ Because I have been engaged in the design and interface work of the track projec
 
 Based on the above ideas, I have been working for a while, learning Revit SDK and developing some simple features posted on this website, I would like to use this to attract friends and volanteers, and to share the functions of this project.
 
-For this project, you can contribute your efforts in the following ways:
+For this project, you can share and contribute to your efforts in the following ways:
 
 1. Provide comments, ideas or related materials.
 2. Directly involved in development.

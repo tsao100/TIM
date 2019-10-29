@@ -1,4 +1,4 @@
-＃トラック情報モデリング（Track Information Modeling, TIM）
+#トラック情報モデリング（Track Information Modeling, TIM）
 
 *他の言語でこれを読む：[English](README.md), [한국어](README.ko.md), [简体中文](README.zh-cn.md), [正體中文](README.zh-tw.md).*
 

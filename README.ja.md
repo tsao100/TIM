@@ -1,6 +1,6 @@
 ＃トラック情報モデリング（Track Information Modeling, TIM）
 
-*他の言語でこれを読む：[한국어](README.ko.md), [日本語](README.ja.md), [简体中文](README.zh-cn.md), [正體中文](README.zh-tw.md).*
+*他の言語でこれを読む：[English](README.md), [한국어](README.ko.md), [简体中文](README.zh-cn.md), [正體中文](README.zh-tw.md).*
 
 トラック情報モデリング（TIM）プロジェクトは、Autodesk Revit Platformプラグインに基づいています。私の目標は、TIMの利便性を可能な限り機能させることです。
 
@@ -15,5 +15,5 @@ Revitは建物のモデリング用に設計されているため、鉄道の線
 
 1.コメント、アイデア、または関連資料を提供し、ドキュメントを使い慣れた言語に翻訳するのに役立ちます。
 2.開発に直接関与します。
-3.遷移曲線と関連するテストデータシートの式を提供します。 [クリック]（https://github.com/tsao100/TIM/issues/1）。
+3.遷移曲線と関連するテストデータシートの式を提供します。 [クリック](https://github.com/tsao100/TIM/issues/1)。
 4.寄付します。

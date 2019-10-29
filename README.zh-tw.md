@@ -1,6 +1,6 @@
 # 軌道資訊模型(Track Information Modeling,TIM)
 
-*以其他語言閱讀: [English](README.md), [한국어](README.ko.md), [日本語](README.ja.md), [简体中文](README.zh-cn.md).*
+*其他語言版本: [English](README.md), [한국어](README.ko.md), [日本語](README.ja.md), [简体中文](README.zh-cn.md).*
 
 
 軌道資訊模型專案是基於AutoDesk Revit平台所建立的二次開發插件，我的目標是儘可能地讓軌道資訊模型的作業更加方便。

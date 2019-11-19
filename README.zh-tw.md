@@ -22,4 +22,4 @@
 
 3.提供緩和曲線的公式及相關的資料表。[點選](https://github.com/tsao100/TIM/issues/2)。
 
-4.捐款。[點選](https://p.ecpay.com.tw/5C342)
+4.捐款。[點選](https://core.newebpay.com/EPG/tsao100/IQHHbC)
